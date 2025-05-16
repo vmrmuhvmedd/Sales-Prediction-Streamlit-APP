@@ -21,8 +21,8 @@ A Streamlit web application that predicts sales based on input features such as 
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/vmrmuhvmedd/salesAppStreamlit.git
-   cd salesAppStreamlit
+   git clone https://github.com/vmrmuhvmedd/Sales-Prediction-Streamlit-APP.git
+   cd Sales-Prediction-Streamlit-APP
 ---
 
 🚀 How to Run
